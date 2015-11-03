@@ -1,0 +1,17 @@
+.idea
+*~
+atlassian-ide-plugin.xml
+*.iml
+target
+dist
+node
+node_modules
+bower_components
+npm-debug.log
+coverage
+build
+.tmp
+.project
+.settings
+.classpath
+.tern-project
